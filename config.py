@@ -1,5 +1,5 @@
 CHANNEL_ID = -1002243436081  # Айди канала
-INVOICE_LINK = "t.me/send?start=IVyReg8CLzHd"  #  Линк на инвойс
+INVOICE_LINK = "t.me/send?start=IVZk2rXuNJ8s"  #  Линк на инвойс
 RULES_LINK = "https://t.me/+k42zVBd8Iz41ZDEy"  #  Линк на правила
 NEWS_LINK = "https://t.me/+YXO5t3AYIRgxZTdi"  #  Линк польз. соглашения
 SUPPORT_LINK = "https://t.me/scamunizdel"  #  Линк саппорта
